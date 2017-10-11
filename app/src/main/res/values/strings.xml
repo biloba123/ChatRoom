@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ChatRoom</string>
+    <string name="username">用户名</string>
+    <string name="chat_room">聊天室</string>
+    <string name="nick">昵称</string>
+    <string name="come_in">进入</string>
+</resources>
